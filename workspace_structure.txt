@@ -1,0 +1,19 @@
+chatgpt_professional/
+├── README.md
+├── requirements.txt
+├── .env
+├── .gitignore
+├── notebooks/
+│   ├── prompt_engineering_basics/
+│   │   └── gpt_prompting_guide.ipynb
+│   └── embeddings_langchain/
+│       └── text_embeddings_and_chains.ipynb
+├── data/
+│   ├── raw/
+│   │   └── .gitkeep
+│   └── processed/
+│       └── .gitkeep
+└── utils/
+    ├── __init__.py
+    ├── env_loader.py
+    └── token_counter.py 
