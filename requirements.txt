@@ -3,3 +3,4 @@ tiktoken
 python-dotenv
 httpx
 numpy 
+fastapi
