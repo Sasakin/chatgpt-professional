@@ -23,3 +23,6 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep 
+
+*.m4a
+*.txt
